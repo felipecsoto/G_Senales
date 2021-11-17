@@ -1,0 +1,20 @@
+{
+  "name": "tfjs-customvision",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no especificado\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "--------"
+  },
+  "author": "Fredy Moreno",
+  "license": "...",
+  "bugs": {
+    "url": "--------"
+  },
+  "devDependencies": {},
+  "description": "Tensorflow para detectar tipos de señales de transito."
+}
